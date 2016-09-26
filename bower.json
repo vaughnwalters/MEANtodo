@@ -1,0 +1,23 @@
+{
+  "name": "MEANtodo",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Vaughn Walters <vaughnwalters@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/vaughnwalters/MEANtodo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1"
+  }
+}
